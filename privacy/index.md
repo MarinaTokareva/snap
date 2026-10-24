@@ -37,4 +37,4 @@ If this policy changes, the new version will be posted on this page with a new d
 
 ## Contact
 
-Questions about privacy: [support email]
+Questions about privacy: [brama.ssh@gmail.com]
