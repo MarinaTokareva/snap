@@ -1,6 +1,6 @@
 # Snapjaw: Flytrap Game — Support
 
-Need help or found a bug? Email **[support email]** and include your iPhone model and iOS version. We usually reply within a few days.
+Need help or found a bug? Email **[brama.ssh@gmail.com]** and include your iPhone model and iOS version. We usually reply within a few days.
 
 ## How to play
 
